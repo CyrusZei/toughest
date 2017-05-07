@@ -3,6 +3,21 @@
 .black {
   background-color: #000000;
 }
+.nav {
+
+}
+.nav_ul {
+  display: inline;
+  list-style-type: none;
+}
+.nav_ul > li {
+  float: left;
+}
+.nav_ul > li > a {
+  display: block;
+  padding: 8px;
+  background-color: #FF0000;
+}
 
 
 
