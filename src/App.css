@@ -60,8 +60,9 @@ body {
 
 }
 .nav_ul {
-  display: inline;
+  display: flex;
   list-style-type: none;
+  justify-content: space-around;
 }
 .nav_ul > li {
   float: left;
