@@ -83,6 +83,11 @@ body {
 .color {
   color: #FFFFFF;
 }
+.display_flex {
+  justify-content: space-around;
+  display: flex;
+  align-items: center;
+}
 
 
 
