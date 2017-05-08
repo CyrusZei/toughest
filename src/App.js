@@ -8,7 +8,7 @@ import Header from './sections/header/header';
 class App extends Component {
   render() {
     return (
-      <div className="container">
+      <div className="container overflow_hidden">
         <Header/>
       </div>
     );

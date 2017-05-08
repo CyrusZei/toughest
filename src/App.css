@@ -76,6 +76,27 @@ body {
 }
 
 
+/*       slider        */
+
+.slider_title {
+  font-size: 10vw;
+  font-weight: 700;
+  color: #000000;
+}
+
+.overflow_hidden {
+  overflow: hidden;
+}
+
+.slick-dots {
+  bottom: 35px !important;
+}
+
+
+.slick-dots li button:before {
+  font-size: 46px !important;
+
+}
 
 
 
