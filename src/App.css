@@ -149,6 +149,10 @@ body {
 .sign_up_button:hover {
   background-color: #D64049;
 }
+.align_sponsors_baseline {
+  align-items: baseline;
+  text-align: center;
+}
 
 
 .center_element {
