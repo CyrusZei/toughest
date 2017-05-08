@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "react-scripts": "0.9.5"
+    "react-scripts": "0.9.5",
+    "react-slick": "^0.14.11",
+    "slick-carousel": "^1.6.0"
   },
   "dependencies": {
     "react": "^15.5.4",
