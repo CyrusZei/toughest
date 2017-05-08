@@ -6,7 +6,7 @@ class ProveIt extends Component {
     return(
       <div className='row black'>
         <div className='block _25 color display_flex'>
-          <p>Malmö</p>
+          <p className='big_title_sub'>Malmö</p>
         </div>
         <div className='block _50 color display_flex'>
           <div>
@@ -16,7 +16,7 @@ class ProveIt extends Component {
 
         </div>
         <div className='block _25 color display_flex'>
-          <p>29 Augusti</p>
+          <p className='big_title_sub'>29 Augusti</p>
         </div>
 
       </div>
