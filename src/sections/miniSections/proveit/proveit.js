@@ -10,8 +10,8 @@ class ProveIt extends Component {
         </div>
         <div className='block _50 color display_flex'>
           <div>
-            <p>Prove it</p>
-            <p>Sign up</p>
+            <p className='big_title'>Prove it</p>
+            <p className='big_title_sub'>Sign up</p>
           </div>
 
         </div>

@@ -89,6 +89,20 @@ body {
   align-items: center;
 }
 
+.big_title {
+  font-size: 3vw;
+  font-weight: 200;
+  text-align: center;
+  margin: 0px
+}
+
+.big_title_sub {
+  font-size: 1.5vw;
+  font-weight: 200;
+  text-align: center;
+  margin: 0px;
+}
+
 
 
 
