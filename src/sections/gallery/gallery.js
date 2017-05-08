@@ -33,57 +33,57 @@ class Gallery extends Component {
       <div>
         <div className='row black'>
           <div className='block _33 no_padding'>
-            <img className='bigmap' src={a01} />
+            <img className='bigmap' src={a01} alt='Toughest'/>
           </div>
           <div className='block _33 no_padding'>
-            <img className='bigmap' src={a02} />
+            <img className='bigmap' src={a02}  alt='Toughest'/>
           </div>
           <div className='block _33 no_padding'>
-            <img className='bigmap' src={a03} />
-          </div>
-        </div>
-        <div className='row black'>
-          <div className='block _33 no_padding'>
-            <img className='bigmap' src={b01} />
-          </div>
-          <div className='block _33 no_padding'>
-            <img className='bigmap' src={b02} />
-          </div>
-          <div className='block _33 no_padding'>
-            <img className='bigmap' src={b03} />
+            <img className='bigmap' src={a03}  alt='Toughest'/>
           </div>
         </div>
         <div className='row black'>
           <div className='block _33 no_padding'>
-            <img className='bigmap' src={c01} />
+            <img className='bigmap' src={b01}  alt='Toughest'/>
           </div>
           <div className='block _33 no_padding'>
-            <img className='bigmap' src={c02} />
+            <img className='bigmap' src={b02}  alt='Toughest'/>
           </div>
           <div className='block _33 no_padding'>
-            <img className='bigmap' src={c03} />
-          </div>
-        </div>
-        <div className='row black'>
-          <div className='block _33 no_padding'>
-            <img className='bigmap' src={d01} />
-          </div>
-          <div className='block _33 no_padding'>
-            <img className='bigmap' src={d02} />
-          </div>
-          <div className='block _33 no_padding'>
-            <img className='bigmap' src={d03} />
+            <img className='bigmap' src={b03}  alt='Toughest'/>
           </div>
         </div>
         <div className='row black'>
           <div className='block _33 no_padding'>
-            <img className='bigmap' src={e01} />
+            <img className='bigmap' src={c01}  alt='Toughest'/>
           </div>
           <div className='block _33 no_padding'>
-            <img className='bigmap' src={e02} />
+            <img className='bigmap' src={c02}  alt='Toughest'/>
           </div>
           <div className='block _33 no_padding'>
-            <img className='bigmap' src={e03} />
+            <img className='bigmap' src={c03}  alt='Toughest'/>
+          </div>
+        </div>
+        <div className='row black'>
+          <div className='block _33 no_padding'>
+            <img className='bigmap' src={d01}  alt='Toughest'/>
+          </div>
+          <div className='block _33 no_padding'>
+            <img className='bigmap' src={d02}  alt='Toughest'/>
+          </div>
+          <div className='block _33 no_padding'>
+            <img className='bigmap' src={d03}  alt='Toughest'/>
+          </div>
+        </div>
+        <div className='row black'>
+          <div className='block _33 no_padding'>
+            <img className='bigmap' src={e01}  alt='Toughest'/>
+          </div>
+          <div className='block _33 no_padding'>
+            <img className='bigmap' src={e02}  alt='Toughest'/>
+          </div>
+          <div className='block _33 no_padding'>
+            <img className='bigmap' src={e03}  alt='Toughest'/>
           </div>
         </div>
 

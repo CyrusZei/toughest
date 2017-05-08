@@ -8,7 +8,7 @@ class SignedUp extends Component {
         <div className='block _33  color display_flex'>
           <p>01</p>
         </div>
-        
+
         <div className='block _33  color display_flex'>
           <p>01</p>
         </div>

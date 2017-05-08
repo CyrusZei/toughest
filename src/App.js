@@ -19,6 +19,7 @@ class App extends Component {
         <ObsMap />
         <BeaLegend />
         <Gallery />
+        <SignedUp />
       </div>
     );
   }
