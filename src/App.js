@@ -7,7 +7,7 @@ import ObsMap from './sections/obsMap/obsMap';
 import BeaLegend from './sections/miniSections/beaLegend/beaLegend';
 import Gallery from './sections/gallery/gallery';
 import SignedUp from './sections/miniSections/signedup/signedup';
-
+import Competitors from './sections/competitors/competitors';
 
 
 class App extends Component {
@@ -20,6 +20,7 @@ class App extends Component {
         <BeaLegend />
         <Gallery />
         <SignedUp />
+        <Competitors />
       </div>
     );
   }
