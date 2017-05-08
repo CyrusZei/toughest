@@ -12,6 +12,7 @@ class Sponsors extends Component {
             </div>
           </div>
         </div>
+
         <div className='row'>
           <div className='block _33'>
             <p>1</p>
@@ -22,8 +23,18 @@ class Sponsors extends Component {
           <div className='block _33'>
             <p>3</p>
           </div>
+        </div>
 
-
+        <div className='row'>
+          <div className='block _33'>
+            <p>4</p>
+          </div>
+          <div className='block _33'>
+            <p>5</p>
+          </div>
+          <div className='block _33'>
+            <p>6</p>
+          </div>
         </div>
       </div>
 
