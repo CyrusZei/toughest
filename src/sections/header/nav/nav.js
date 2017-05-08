@@ -10,12 +10,12 @@ class Nav extends Component {
         </div>
         <div className='block _75'>
           <ul className='nav_ul'>
-            <li><a href="#">ANMÄLAN</a></li>
+            <li><a href="#">SIGN UP</a></li>
             <li><a href="#">RACE</a></li>
             <li><a href="#">INFO</a></li>
             <li><a href="#">MEDIA</a></li>
             <li><a href="#">SHOP</a></li>
-            <li><a href="#">KONTAKT</a></li>
+            <li><a href="#">CONTACT</a></li>
 
           </ul>
         </div>
