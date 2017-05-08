@@ -29,7 +29,7 @@ class HeroSlider extends Component {
       <Slider {...settings}>
         <div style={SliderStyle}>
           <h3 className="slider_title">Speed</h3>
-          <h5>How fast are you</h5>
+          <h5 className="slider_sub">How fast are you</h5>
 
         </div>
 
