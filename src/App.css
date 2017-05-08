@@ -103,6 +103,14 @@ body {
   margin: 0px;
 }
 
+/*          big map      */
+.bigmap {
+  width: 100%;
+}
+.no_padding {
+  padding: 0px !important;
+}
+
 
 
 
