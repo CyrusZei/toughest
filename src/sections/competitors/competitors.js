@@ -11,8 +11,7 @@ class Competitors extends Component {
     axios({
       method:'get',
       url:'http://api.notified.com/Channel/66bbc5cf-0030-e711-80d6-a0d3c1f2861f?key=ab07bd54-7766-46dd-8480-2daa14035af0&format=basic&limit=50',
-      headers: '',
-      responseType: 'xml',
+      headers: ''
 
     })
     .then((snap) => {

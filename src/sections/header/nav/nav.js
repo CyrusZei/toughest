@@ -6,7 +6,7 @@ class Nav extends Component {
     return (
       <div className='row black nav'>
         <div className='block _25'>
-          <img src={Logo}/>
+          <img src={Logo} alt='Toughest'/>
         </div>
         <div className='block _75'>
           <ul className='nav_ul'>

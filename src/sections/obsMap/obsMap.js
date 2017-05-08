@@ -7,7 +7,7 @@ class ObsMap extends Component {
     return (
       <div className='row black'>
         <div className='block color display_flex no_padding'>
-          <img className='bigmap' src={ObsMapBig} />
+          <img className='bigmap' alt='Toughest' src={ObsMapBig} />
         </div>
       </div>
     );
