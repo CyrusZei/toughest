@@ -8,7 +8,8 @@ class HeroSlider extends Component {
       backgroundImage: 'url('+ SliderSpeed + ')',
       backgroundSize: 'cover',
       backgroundPosition: 'center',
-      backgroundRepeat: 'no-repeat'
+      backgroundRepeat: 'no-repeat',
+      minHeight: '500px'
     };
 
     const settings = {
@@ -20,6 +21,7 @@ class HeroSlider extends Component {
       slidesToScroll:1,
       autoplay:true,
       pauseOnHover: true,
+      adaptiveHeight:true
 
     } ;
 

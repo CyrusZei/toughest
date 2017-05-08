@@ -82,6 +82,8 @@ body {
   font-size: 10vw;
   font-weight: 700;
   color: #000000;
+  margin-bottom: 0px;
+  margin-top: 0px;
 }
 
 .overflow_hidden {
