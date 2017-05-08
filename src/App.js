@@ -11,6 +11,7 @@ import Competitors from './sections/competitors/competitors';
 import NeverGiveUp from './sections/miniSections/neverGiveUp/nevergiveup';
 import SignUp from './sections/signUp/signup';
 import Sponsors from './sections/sponsors/sponsors';
+import Footer from './sections/footer/footer';
 
 
 class App extends Component {
@@ -27,6 +28,7 @@ class App extends Component {
         <NeverGiveUp />
         <SignUp />
         <Sponsors />
+        <Footer />
       </div>
     );
   }
