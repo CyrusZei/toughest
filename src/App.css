@@ -84,7 +84,7 @@ body {
 }
 
 
-/*                prove it            */
+
 
 .color {
   color: #FFFFFF;
@@ -120,6 +120,35 @@ body {
   font-weight: 700;
   text-align: center;
   margin: 0px
+}
+
+.signed_up_title_small {
+  font-size: 2.4vw;
+  font-weight: 100;
+  text-align: center;
+  margin: 0px
+}
+.signed_up_sub_large {
+  font-size: 3.7vw;
+  font-weight: 700;
+  text-align: center;
+  margin: 0px;
+}
+.sign_up_button {
+  background-color: #F24853;
+  padding: 20px 20px;
+  color: #FFFFFF;
+  font-size: 1.3vw;
+  font-weight: 100;
+  border: none;
+  text-align: center;
+  margin: 20px;
+  letter-spacing: 6px;
+}
+
+
+.center_element {
+  text-align: center;
 }
 
 /*          big map      */

@@ -9,6 +9,7 @@ import Gallery from './sections/gallery/gallery';
 import SignedUp from './sections/miniSections/signedup/signedup';
 import Competitors from './sections/competitors/competitors';
 import NeverGiveUp from './sections/miniSections/neverGiveUp/nevergiveup';
+import SignUp from './sections/signUp/signup';
 
 
 class App extends Component {
@@ -23,6 +24,7 @@ class App extends Component {
         <SignedUp />
         <Competitors />
         <NeverGiveUp />
+        <SignUp />
       </div>
     );
   }
