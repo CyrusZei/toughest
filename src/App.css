@@ -57,7 +57,9 @@ body {
 .black {
   background-color: #000000;
 }
-
+.pink {
+  background-color: #F24853;
+}
 /*        nav             */
 .nav {
 
@@ -109,6 +111,7 @@ body {
 }
 .no_padding {
   padding: 0px !important;
+  margin: 0px !important;
 }
 
 

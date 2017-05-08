@@ -4,6 +4,7 @@ import './App.css';
 import Header from './sections/header/header';
 import ProveIt from './sections/miniSections/proveit/proveit';
 import ObsMap from './sections/obsMap/obsMap';
+import BeaLegend from './sections/miniSections/beaLegend/beaLegend';
 
 class App extends Component {
   render() {
@@ -12,6 +13,7 @@ class App extends Component {
         <Header/>
         <ProveIt />
         <ObsMap />
+        <BeaLegend />
       </div>
     );
   }
