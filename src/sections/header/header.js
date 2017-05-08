@@ -10,8 +10,6 @@ class Header extends Component {
       <div>
         <Nav />
         <HeroSlider/>
-        <br></br>
-        <div>it works</div>
       </div>
 
     );
