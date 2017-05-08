@@ -1,10 +1,20 @@
 import React, { Component } from 'react';
-
+import SignUpBgImage from './../../assets/images/signup/signup.jpg'
 
 class Signup extends Component {
+
+
   render() {
+    const SignUpBg = {
+      backgroundImage: 'url('+ SignUpBgImage + ')',
+      backgroundSize: 'cover',
+      backgroundPosition: 'center',
+      backgroundRepeat: 'no-repeat',
+
+    };
+
     return(
-      <div className='row black'>
+      <div className='row black' style={SignUpBg}>
         <div className='block color display_flex'>
           <div className='center_element'>
             <p className='signed_up_sub_large'>Sign up today</p>

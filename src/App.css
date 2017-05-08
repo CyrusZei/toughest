@@ -144,11 +144,16 @@ body {
   text-align: center;
   margin: 20px;
   letter-spacing: 6px;
+  cursor: pointer;
+}
+.sign_up_button:hover {
+  background-color: #D64049;
 }
 
 
 .center_element {
   text-align: center;
+  margin: 100px 0px;
 }
 
 /*          big map      */
