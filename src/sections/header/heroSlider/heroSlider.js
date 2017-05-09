@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import Slider from 'react-slick'
 import SliderSpeed from './../../../assets/images/slider/speed1a.jpg';
 import SliderFigther from './../../../assets/images/slider/figther1a.jpg';
-import SliderStamina from './../../../assets/images/slider/stamina1.jpg';
-import SliderTeamwork from './../../../assets/images/slider/teamwork1.jpg';
+import SliderStamina from './../../../assets/images/slider/stamina1a.jpg';
+import SliderTeamwork from './../../../assets/images/slider/teamwork1a.jpg';
 
 
 
@@ -74,7 +74,7 @@ class HeroSlider extends Component {
         </div>
 
         <div style={SliderStaminaImage}>
-          <div className='align_right'>
+          <div >
             <h3 className="slider_title white">Stamina</h3>
             <h5 className="slider_sub white">How far can you go</h5>
           </div>
