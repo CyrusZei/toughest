@@ -64,6 +64,14 @@ body {
 .grey {
   background-color: #212526;
 }
+.white {
+  color: #FFFFFF !important;
+  margin-right: 3vw !important;
+}
+
+.align_right {
+  text-align: right;
+}
 /*        nav             */
 .nav {
 
