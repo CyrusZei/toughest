@@ -1,12 +1,12 @@
 
-#Toughest malmö
+# Toughest malmö
 
-###To install
+### To install
 ```
 npm install
 ```
 
-###To run
+### To run
 ```
 npm start
 ```
